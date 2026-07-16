@@ -28,14 +28,8 @@ Flutter es un framework de desarrollo de aplicaciones móviles que permite crear
 
 https://github.com/ricardo840/flutter
 
-![Login](image.png)
+![Login](image.png) ![Componentes](image-1.png)
 
-![Componentes](image-1.png)
+![Navegacion](image-2.png) ![Asincronos](image-3.png)
 
-![Navegacion](image-2.png)
-
-![Asincronos](image-3.png)
-
-![Pokedex](image-4.png)
-
-![Personalizados](image-5.png)
+![Pokedex](image-4.png) ![Personalizados](image-5.png)
